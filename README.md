@@ -15,7 +15,7 @@ This repository contains the Windows build for my thesis project: **3D Role-Play
 This is a 3D role-playing game developed as part of a computer science thesis. The project includes character movement, quests, and basic interactions within a 3D environment.
 
 ## How to Run
-1. Download the latest release from Releases. The [direct link to `.zip` file](https://github.com/tothadam1188/thesis/archive/refs/tags/v0.2.0.zip)
+1. Download the latest release from Releases. The [direct link to `.zip` file](https://github.com/tothadam1188/thesis/archive/refs/tags/v0.3.0.zip)
 2. Extract the downloaded archive to a folder of your choice.
 3. Navigate to the extracted folder.
 4. Run the main executable (`Kingslayer.exe`).
