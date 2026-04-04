@@ -1,4 +1,12 @@
-# Game Controls
+## Installation (Windows Only)
+
+1. Go to the [Releases](https://github.com/tothadam1188/thesis/releases) page
+2. Download the latest `Source code (zip)` file
+3. Extract the zip file to a folder of your choice
+4. Open the extracted folder
+5. Double-click `Perimeter.exe` to start playing
+
+## Game Controls
 
 | Action | Key |
 |--------|-----|
